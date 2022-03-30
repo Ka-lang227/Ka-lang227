@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ka-lang227
 - 👀 I’m interested in improving in programming.
-- 🌱 I’m currently learning python and c++.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kwatpandavid@gmail.com.
 
